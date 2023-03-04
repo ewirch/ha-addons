@@ -1,0 +1,13 @@
+name: "echoctl Home Assistant Add-on"
+description: "Add-on running echoctl on Home Assistant system."
+version: "1.0.0"
+slug: "echoctl"
+init: false
+arch:
+  - aarch64
+startup: application
+url: "https://github.com/ewirch/ha-addons/echoctl"
+host_network: true
+services:
+  - mqtt: need
+stage: experimental
