@@ -8,6 +8,6 @@ arch:
 startup: application
 url: "https://github.com/ewirch/ha-addons/echoctl"
 host_network: true
-services:
-  - "mqtt:need"
-stage: experimental
+#services:
+#  - "mqtt:need"
+#stage: experimental
