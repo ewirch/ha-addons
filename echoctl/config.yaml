@@ -10,4 +10,4 @@ url: "https://github.com/ewirch/ha-addons/tree/main/echoctl"
 host_network: true
 services:
   - "mqtt:need"
-#stage: experimental
+stage: experimental
