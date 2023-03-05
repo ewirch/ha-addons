@@ -1,6 +1,6 @@
 name: "echoctl Home Assistant Add-on"
 description: "Add-on running echoctl on Home Assistant system."
-version: "1.0.4"
+version: "1.0.5"
 slug: "echoctl"
 init: false
 arch:
